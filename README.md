@@ -1,9 +1,7 @@
 # DARSHAN_K_21BPS1494
-My Submission for Hitwicket's Online assignment for the role of software engineer
-
-Download the ChessPro exe folder of the repository and open the exe file in it to play.
-
 # ♟️ Chess Pro
+
+Find the exe file ChessPro_exe folder to play directly!!!
 
 Welcome to **Chess Pro**! 🎉
 
@@ -15,6 +13,16 @@ Chess Pro is an exciting and strategic game where you can choose to play as **Re
 - **Unique Heroes**: Each hero has special movements, making every game a new challenge.
 - **Strategic Gameplay**: Think ahead and outsmart your opponent to win.
 - **Multiplayer Fun**: Play with your pals in this thrilling version of chess.
+
+## 🎮 The Arena
+
+![The Arena]("C:\Users\KD\Pictures\Screenshots\Screenshot 2024-08-27 114216.png")
+*The Arena*
+
+## 🎯 Unleash the Power of Hints and Track Your Move History
+
+![Unleash the Power of Hints and Track Your Move History]("C:\Users\KD\Pictures\Screenshots\Screenshot 2024-08-27 114312.png")
+*Unleash the power of hints and track your move history*
 
 ## 🎮 How to Play
 
@@ -35,8 +43,6 @@ Clone the repository and dive into the action!
 git clone https://github.com/yourusername/ChessPro.git
 cd ChessPro
 python client.py
-
-Or even better play directly with our exe file!
 
 💬 Feedback
 We'd love to hear your thoughts on Chess Pro! Feel free to open an issue or submit a pull request.
