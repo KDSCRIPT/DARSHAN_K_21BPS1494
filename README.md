@@ -16,12 +16,13 @@ Chess Pro is an exciting and strategic game where you can choose to play as **Re
 
 ## 🎮 The Arena
 
-![The Arena]("C:\Users\KD\Pictures\Screenshots\Screenshot 2024-08-27 114216.png")
+![Screenshot 2024-08-27 114216](https://github.com/user-attachments/assets/9d1f0dbc-e5ce-4071-ba6f-48b64a0a32c1)
+
 *The Arena*
 
 ## 🎯 Unleash the Power of Hints and Track Your Move History
 
-![Unleash the Power of Hints and Track Your Move History]("C:\Users\KD\Pictures\Screenshots\Screenshot 2024-08-27 114312.png")
+
 *Unleash the power of hints and track your move history*
 
 ## 🎮 How to Play
