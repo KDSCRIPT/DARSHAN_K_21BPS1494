@@ -1,4 +1,5 @@
-![Screenshot 2024-08-27 114312](https://github.com/user-attachments/assets/58532fed-1d67-4560-9843-44d5d3b8413c)# DARSHAN_K_21BPS1494
+# DARSHAN_K_21BPS1494
+![Screenshot 2024-08-27 114206](https://github.com/user-attachments/assets/1792a63b-aa2c-4c98-a638-143d4ee2d35e)
 # ♟️ Chess Pro
 
 Find the exe file ChessPro_exe folder to play directly!!!
