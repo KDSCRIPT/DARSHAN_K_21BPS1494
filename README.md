@@ -71,12 +71,13 @@ The winning player is announced, and players can choose to start a new game.
 ## 🎯 Get Started
 
 Clone the repository and dive into the action! 
+Or even better run exe file in ChessPro.exe
 
 ```bash
 git clone https://github.com/yourusername/DARSHAN_K_21BPS1494.git
 cd DARSHAN_K_21BPS1494
 python client.py
-
+```
 💬 Feedback
 We'd love to hear your thoughts on Chess Pro! Feel free to open an issue or submit a pull request.
 
