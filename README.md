@@ -72,8 +72,8 @@ The winning player is announced, and players can choose to start a new game.
 Clone the repository and dive into the action! 
 
 ```bash
-git clone https://github.com/yourusername/ChessPro.git
-cd ChessPro
+git clone https://github.com/yourusername/DARSHAN_K_21BPS1494.git
+cd DARSHAN_K_21BPS1494
 python client.py
 
 💬 Feedback
